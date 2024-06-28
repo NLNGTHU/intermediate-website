@@ -1,0 +1,42 @@
+<html>
+<head>
+font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+
+<title>(welcome to my website)</title>
+<p1><body>{audition for a talent presantation.
+                                           venue:Nairobi,Kenya,the great talent centre}
+</p1>
+</head>
+<body>{first one to audition gets a bonus of 100 ksh.}</body>
+</html>
+font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
